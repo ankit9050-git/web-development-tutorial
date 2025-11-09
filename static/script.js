@@ -1,0 +1,1 @@
+alert("this website is only for practicing")
